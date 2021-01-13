@@ -1,0 +1,122 @@
+{
+    "products": [
+        {
+            "id": 133453126,
+            "title": "Chuteira Nike South Mexico City Superfly 7 Elite Unissex",
+            "price": "R$ 899,99",
+            "picture": "https://imgcentauro-a.akamaihd.net/500x500/9392879EA1/chuteira-de-campo-nike-mercurial-superfly-7-club-fg-mg-adulto-img.jpg",
+            "description": "O cabedal de Flyknit e material sintético da Nike Mercurial South Mexico City Superfly 7 Elite TF envolve o seu pé para um ajuste de segunda pele, enquanto o solado de borracha ajuda a turbinar a tração nos gramados.",
+            "chuteira": "",
+            "quantity": 2
+        },
+        {
+            "id": 132537782,
+            "title": "Chuteira Nemeziz 19.1 Campo Adidas - Branco e Preto",
+            "price": "R$ 899,99",
+            "picture": "https://static.netshoes.com.br/produtos/chuteira-nemeziz-191-campo-adidas/28/NQQ-2692-028/NQQ-2692-028_zoom1.jpg",
+            "description": "O cabedal de malha desta chuteira para campo gramado exibe uma estampa hipnotizante que reflete seus melhores movimentos. A estrutura inspirada nas ataduras esportivas oferece o nível ideal de segurança e liberdade.",
+            "chuteira": "",
+            "quantity": 4
+        },
+        {
+            "id": 133453169,
+            "title": "Chuteira de Futsal Masculina Under Armour CF Force 3.0",
+            "price": "299,90",
+            "picture": "https://www.underarmour.com.br/arquivos/ids/156438-300-300/1278820-726-42-1.jpg?v=637423132428400000",
+            "description": "possui cabedal sintético leve de alto desempenho que maximiza a sensibilidade e o ajuste. Seu design perfurado permite o máximo de ventilação e respirabilidade, enquanto a palmilha moldada garante amortecimento extra. Solado de borracha moldada ideal para superfícies de society.",
+            "chuteira":"",
+            "quantity": 1
+        },
+        {
+            "id": 133453170,
+            "title": "Tênis Adidas Dame 7 Ric Flair Masculino",
+            "price": "R$ 699,99",
+            "picture": "https://images.tcdn.com.br/img/img_prod/740066/tenis_adidas_dame_7_ric_flair_masculino_2312_3_977ee4ab518a18d56c5e331c1f651caa.jpeg",
+            "description": "O Dame 7 x Ric Flair canaliza a energia espetacular e ofuscante do Nature Boy, com uma estampa em branco e dourada inspirada nas brilhantes túnicas que Flair usava para entrar no ringue.",
+            "quantity": 10
+        },
+        {
+            "id": 126830288,
+            "title": "Tênis Nike Air Zoom BB NXT Unissex",
+            "price": "R$ 1.199,99",
+            "picture": "https://static.netshoes.com.br/produtos/tenis-nike-zoom-gravity-2-masculino/28/HZM-4154-028/HZM-4154-028_zoom1.jpg?ts=1594137451&amp;ims=544x",
+            "description": "Mantenha o foco no jogo com o novo Air Zoom BB NXT da Nike Basquete. Ele foi projetado para ajudar os jogadores a se sentirem leves, seguros e ágeis. Você obtém amortecimento reativo a cada passo, ajudando a transformar sua força em impulso quando você mais precisa.",
+            "quantity": 8
+        },
+        {
+            "id": 123439902,
+            "title": "Tênis de Basquete Masculino Under Armour CURRY 3ZERO III",
+            "price": "R$ 549,99",
+            "picture": "https://www.underarmour.com.br/arquivos/ids/160728-300-300/3022048-103-47-1.jpg?v=637454551305270000",
+            "description": "O Tênis UA CURRY 3ZER0 III Basketball possui a parte superior em sintético durável, e perfurada para maior respirabilidade. Construção com meia bota para conforto interno e ajuste. Amortecimento aprimorado em torno da gola do tornozelo para maior conforto e estabilidade do calcanhar. A palmilha de corte em EVA fornece amortecimento e apoio sob os pés.",
+            "quantity": 0
+        },
+        {
+            "id": 129712316,
+            "title": "Tênis de Court Bold Feminino",
+            "price": "R$ 299,99",
+            "picture": "https://static.netshoes.com.br/produtos/tenis-adidas-court-bold-feminino/32/NQQ-6286-032/NQQ-6286-032_zoom1.jpg?ts=1604942264&amp;ims=544x",
+            "description": "Fique no básico. Ou incremente o visual. Este tênis adidas é tão neutro que você pode levar seu look para qualquer direção. O cabedal macio tem uma entressola grossa como base para alguns pontos a mais de estilo.",
+            "quantity": 20
+        },
+        {
+            "id": 128366870,
+            "title": "Tênis Nike Sb Charge Mid Canvas - Branco e Preto",
+            "price": "R$ 329,99",
+            "picture": "https://static.netshoes.com.br/produtos/tenis-nike-sb-charge-mid-canvas/28/HZM-2990-028/HZM-2990-028_zoom1.jpg?ts=1579637697&amp;ims=544x",
+            "description": "Pegue uma carona no Nike SB Charge Mid Canvas. O cano médio envolve os tornozelos enquanto você anda de skate, e o design flexível proporciona a mobilidade que você precisa para mandar ver.",
+            "quantity": 3
+        },
+        {
+            "id": 1,
+            "title": "Tênis Roguera",
+            "price": "R$ 299,99",
+            "picture": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWNcr6VlFBL38iVjQFLsRe_ezYC5fAJqr99VoxJwd1BK8hsKpkgXet46r-l6-SezCTxMbJl7EumfXGrFg-DpbzBgI8qIn8",
+            "description": "Sinta o poder das tendências fitness dos anos 80. Este tênis atualiza um clássico, com maior conforto e estilo para o seu dia. Ele exibe um cabedal de couro revestido e o icônico cupsole duplo para passadas mais confiantes.",
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "title": "Tênis Nike Free Metcon 3 Unissex",
+            "price": "R$ 599,99",
+            "picture": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSMZy0EEmwx4YGDlcVauii7Xua95NnOiYsPCmuoSYArkk0tcO7NrQkSMHLfrHeAPst8G2Q2rsngjgtKquRAzaAjGtgv-h7",
+            "description": "Os tênis Nike Free Metcon 3 combinam a flexibilidade Nike Free no antepé à estabilidade Metcon no calcanhar para ajudá-lo a aproveitar ao máximo a sua sessão de treinamento.",
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "title": "Tênis Lifestyle Masculino Under Armour HOVR Summit FT",
+            "price": "R$ 1099,90",
+            "picture": "https://underarmourbr.vteximg.com.br/arquivos/ids/169784-1000-1000/3022946-001-img1.jpg?v=637426841459270000",
+            "description": "Tênis Lifestyle Masculino Under Armour HOVR Summit FT, feito em malha de compressão Energy Web contém e molda espuma UA HOVR ™ para devolver a energia que você coloca."
+        },
+        {
+            "id": 4,
+            "title": "Chuteira x Ghosted.1 Campo",
+            "price": "R$ 899,99",
+            "picture": "https://www.goalinn.com/f/13758/137583765/adidas-x-ghosted.3-ll-fg.jpg",
+            "description": "A chuteira adidas X Ghosted.1 possui o antepé elevado com silhueta espigada e a placa elástica de fibra de carbono combinam-se para uma propulsão explosiva. O cabedal leve de perfil baixo mantém você voando em campo de superfície macia"
+        },
+        {
+            "id": 5,
+            "title": "Chuteira Nike Phantom GT Club Unissex",
+            "price": "R$ 349,99",
+            "picture": "https://static.netshoes.com.br/produtos/chuteira-campo-nike-phantom-club/28/HZM-3948-028/HZM-3948-028_zoom1.jpg?ts=1606745706&amp;ims=544x",
+            "description": "A Nike Phantom GT Club Dynamic Fit MG foi desenvolvida para ataques habilidoses em gramado natural ou artificial. COm base em testes de movimento de atletas, uma textura inovadora na parte de cima proporciona maior controle de bola. A adição de uma boca elástica proporciona um suporte perfeito."
+        }, 
+        {
+            "id": 6,
+            "title": "Chuteira Society Masculina Under Armour Spotlight Turf",
+            "price": "R$ 299,90",
+            "picture": "https://underarmourbr.vteximg.com.br/arquivos/ids/157345-1000-1000/1289539-300-44-1.jpg?v=637423129299200000",
+            "description": "Chuteira Society Masculina UA Spotlight Turf produzida em couro sintético supermacio, para se adaptar ao formato dos pés e proporcionar conforto extremo. Traz o sistema assimétrico de amarração para ajuste confortável e superfície de chute ampla e uniforme e solado externo de borracha, desenvolvido para superfícies secas naturais e quadras com gramado sintético."
+        },
+        {
+            "id": 7,
+            "title": "Tênis Adidas D Rose 773 2020 - Branco e Vermelho",
+            "price": "R$ 599,99",
+            "picture": "https://static.netshoes.com.br/produtos/tenis-adidas-d-rose-773-2020/24/NQQ-4108-024/NQQ-4108-024_zoom1.jpg?ts=1599746283&amp;ims=544x",
+            "description": "Este tênis Adidas tem uma estampa Rose 773 na gola. O amortecimento leve na entressola flexiona, proporcionando dribles dinâmicos."
+        }
+    ]
+}
