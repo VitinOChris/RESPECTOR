@@ -69,54 +69,52 @@
         },
         {
             "id": 1,
-            "title": "Tênis Roguera",
-            "price": "R$ 299,99",
-            "picture": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWNcr6VlFBL38iVjQFLsRe_ezYC5fAJqr99VoxJwd1BK8hsKpkgXet46r-l6-SezCTxMbJl7EumfXGrFg-DpbzBgI8qIn8",
-            "description": "Sinta o poder das tendências fitness dos anos 80. Este tênis atualiza um clássico, com maior conforto e estilo para o seu dia. Ele exibe um cabedal de couro revestido e o icônico cupsole duplo para passadas mais confiantes.",
-            "quantity": 1
-        },
-        {
-            "id": 2,
-            "title": "Tênis Nike Free Metcon 3 Unissex",
-            "price": "R$ 599,99",
-            "picture": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSMZy0EEmwx4YGDlcVauii7Xua95NnOiYsPCmuoSYArkk0tcO7NrQkSMHLfrHeAPst8G2Q2rsngjgtKquRAzaAjGtgv-h7",
-            "description": "Os tênis Nike Free Metcon 3 combinam a flexibilidade Nike Free no antepé à estabilidade Metcon no calcanhar para ajudá-lo a aproveitar ao máximo a sua sessão de treinamento.",
-            "quantity": 1
-        },
-        {
-            "id": 3,
-            "title": "Tênis Lifestyle Masculino Under Armour HOVR Summit FT",
-            "price": "R$ 1099,90",
-            "picture": "https://underarmourbr.vteximg.com.br/arquivos/ids/169784-1000-1000/3022946-001-img1.jpg?v=637426841459270000",
-            "description": "Tênis Lifestyle Masculino Under Armour HOVR Summit FT, feito em malha de compressão Energy Web contém e molda espuma UA HOVR ™ para devolver a energia que você coloca."
-        },
-        {
-            "id": 4,
             "title": "Chuteira x Ghosted.1 Campo",
             "price": "R$ 899,99",
             "picture": "https://www.goalinn.com/f/13758/137583765/adidas-x-ghosted.3-ll-fg.jpg",
             "description": "A chuteira adidas X Ghosted.1 possui o antepé elevado com silhueta espigada e a placa elástica de fibra de carbono combinam-se para uma propulsão explosiva. O cabedal leve de perfil baixo mantém você voando em campo de superfície macia"
         },
         {
-            "id": 5,
+            "id": 2,
             "title": "Chuteira Nike Phantom GT Club Unissex",
             "price": "R$ 349,99",
             "picture": "https://static.netshoes.com.br/produtos/chuteira-campo-nike-phantom-club/28/HZM-3948-028/HZM-3948-028_zoom1.jpg?ts=1606745706&amp;ims=544x",
             "description": "A Nike Phantom GT Club Dynamic Fit MG foi desenvolvida para ataques habilidoses em gramado natural ou artificial. COm base em testes de movimento de atletas, uma textura inovadora na parte de cima proporciona maior controle de bola. A adição de uma boca elástica proporciona um suporte perfeito."
         }, 
         {
-            "id": 6,
+            "id": 3,
             "title": "Chuteira Society Masculina Under Armour Spotlight Turf",
             "price": "R$ 299,90",
             "picture": "https://underarmourbr.vteximg.com.br/arquivos/ids/157345-1000-1000/1289539-300-44-1.jpg?v=637423129299200000",
             "description": "Chuteira Society Masculina UA Spotlight Turf produzida em couro sintético supermacio, para se adaptar ao formato dos pés e proporcionar conforto extremo. Traz o sistema assimétrico de amarração para ajuste confortável e superfície de chute ampla e uniforme e solado externo de borracha, desenvolvido para superfícies secas naturais e quadras com gramado sintético."
         },
         {
-            "id": 7,
+            "id": 4,
             "title": "Tênis Adidas D Rose 773 2020 - Branco e Vermelho",
             "price": "R$ 599,99",
             "picture": "https://static.netshoes.com.br/produtos/tenis-adidas-d-rose-773-2020/24/NQQ-4108-024/NQQ-4108-024_zoom1.jpg?ts=1599746283&amp;ims=544x",
             "description": "Este tênis Adidas tem uma estampa Rose 773 na gola. O amortecimento leve na entressola flexiona, proporcionando dribles dinâmicos."
+        },
+        {
+            "id": 5,
+            "title": "Tênis Nike Kyrie Low 3 Eclipse Unissex",
+            "price": "R$ 649,99",
+            "picture": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSPCCAdlCNAF9ZCbEjj3NnZ405fhOntFh_NMl06jyEUt8ECE1KAAIfPcNTKjYmgkklUkakGkHYr9GieAvndFbNqz1Fp9N2",
+            "description": "A unidade Zoom Air no antepé e no calcanhar se comprime com o seu peso e volta, retornando energia para ajudar você a percorrer a quadra."
+        },
+        {
+            "id": 6,
+            "title": "Tênis de Basquete Masculino Under Armour Spawn 2",
+            "price": "R$ 899,90",
+            "picture": "https://underarmourbr.vteximg.com.br/arquivos/ids/161498-1000-1000/3022626-104-45-1.jpg?v=637460620323470000",
+            "description": "O Tênis Under Armour Spawn 2 tem o cabedal com construção em Mesh que proporciona ventilação extra. A placa lateral de TPU oferece suporte extra nos movimentos laterais."
+        },
+        {
+            "id": 7,
+            "title": "Tênis Nike SB Nyjah Free 2 Unissex",
+            "price": "R$ 549,99",
+            "picture": "https://img.vigiadepreco.com.br/a7/647/6e91/d7199/a76476e91d7199f0793ef69ea6bb996b392c68c023c7209aa416e49c6781a3fc.jpg",
+            "description": "O Nike SB Nyjah Free é uma sequência digna de seu antecessor. Inspirado no icônico Nike Air Zoom Spiridon, o design de borracha original foi atualizado com painéis de mesh para ajudar a manter os seus pés frescos nas suas sessões de skates mais quentes."
         }
     ]
 }

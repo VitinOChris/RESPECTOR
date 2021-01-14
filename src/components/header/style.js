@@ -18,7 +18,7 @@ const styles = makeStyles(() => ({
       flexGrow: 100
     },
     icons: {
-      paddingRight: '40px', 
+      paddingRight: 20, 
       fontSize: 15
     },
     appBar: {
@@ -37,12 +37,30 @@ const styles = makeStyles(() => ({
       textDecoration: 'none',
       outline: 'none'
     },
-    filter1: {
-      marginLeft: 90,
-      padding: 25,
-      background: '#424242',
-      fontSize: '15'
+    categorys: {
+      marginLeft: 115,
+      fontSize: '1rem',
+      fontFamily: 'Arial',
+      },
+    typCar: {
+      fontSize: '1.25rem',
+      fontFamily: 'sans-serif',
+      fontWeight: 500,
+      lineHeight: 1.6,
+      letterSpacing: '0.0075em',
+      textAlign: 'center',
+      padding: 20
     },
+    carrinho: {
+      paddingBottom: 50
+    },
+    contBuy: {
+      marginTop: 25,
+      marginLeft: 200,
+      borderRadius: 200,
+      height: 75,
+      width: 300
+    }
 }));
 
 export default styles;

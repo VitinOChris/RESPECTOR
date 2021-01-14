@@ -78,23 +78,6 @@ return (
                         name="password"
                         type="password"/>
 
-                    <TextField className={classes.yourSex}
-                        id="select-your-sex"
-                        select
-                        value={currency}
-                        onChange={handleChange}
-                        SelectProps={{
-                        native: true,
-                        }}
-                        variant="outlined"
-                        >
-                        {currencies.map((option) => (
-                        <option key={option.value} value={option.value}>
-                        {option.label}
-                        </option>
-                    ))}
-                    </TextField>
-
                     <Link href="/" underline='none'> <input type="button" value="JUNTE-SE A NÓS" className={classes.buttonLog}/>
                     </Link>
                     <div className={classes.Link}>

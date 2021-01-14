@@ -3,7 +3,13 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from '../../pages/home'
 import Login from '../../pages/login'
 import Register from '../../pages/register'
-import Chut from '../../pages/categorias/chuteiras'
+import Futebol from '../../pages/categorias/futebol'
+import Basquete from '../../pages/categorias/basquete'
+import Skateboarding from '../../pages/categorias/skateboarding';
+import Adidas from '../../pages/marcas/adidas'
+import Nike from '../../pages/marcas/nike'
+import Under from '../../pages/marcas/under armour'
+import Desejos from '../../pages/listaDeDesejos'
 
 function Routes() {
     return(
@@ -12,7 +18,13 @@ function Routes() {
                 <Route exact path="/" component={Home} />
                 <Route path="/login" component={Login} />
                 <Route path="/register" component={Register} />
-                <Route path="/Chuteiras" component={Chut}/>
+                <Route path="/Futebol" component={Futebol}/>
+                <Route path="/Basquete" component={Basquete}/>
+                <Route path="/Skateboarding" component={Skateboarding}/>
+                <Route path="/Nike" component={Nike}/>
+                <Route path="/Under Armour" component={Under}/>
+                <Route path="/Adidas" component={Adidas}/>
+                <Route path="/Lista de Desejos" component={Desejos} />
             </Switch>
         </BrowserRouter> 
     )

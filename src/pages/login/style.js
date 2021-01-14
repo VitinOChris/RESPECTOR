@@ -23,7 +23,7 @@ const styles = makeStyles(() => ({
         background: "#000",
         color: "white",
         border: '1px solid #000',
-        borderRadius: 3, 
+        borderRadius: 3,
         cursor: 'pointer',
         display: 'block',
         fontSize: 15,
