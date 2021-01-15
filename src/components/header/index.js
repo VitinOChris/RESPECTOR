@@ -99,18 +99,19 @@ function Header() {
             </Link> 
             </Menu>
           
-          <div className={classes.grow} />
-          <Link href="/Lista de desejos" underline='none' color='inherit'>
-          <Button size="small" className={classes.icons} startIcon={<FavoriteIcon />} color='inherit'> Lista de desejos
-          </Button>
-          </Link>
+            {/*<div className={classes.grow} />
+            <Link href="/Lista de desejos" underline='none' color='inherit'>
+            <Button size="small" className={classes.icons} startIcon={<FavoriteIcon />} color='inherit'> Lista de desejos
+            </Button>
+            </Link>*/}
 
           <Link href="/login" underline='none' color='inherit'>
           <Button size="small" className={classes.icons} startIcon={<AccountCircleIcon />} color='inherit'> Fazer login
           </Button>
           </Link>
           
-          <Button color='inherit'>
+          <Button className={classes.merc}
+          color='inherit'>
           <ShoppingCartIcon
             color="inherit"
             aria-label="open drawer"
@@ -135,12 +136,11 @@ function Header() {
           </IconButton>
         
         <List>
-          <Typography align='center' variant='h5'> SEU CARRINHO ESTÁ VAZIO! </Typography>
-          <Typography className={classes.typCar} variant='h6'> Navegue pelas categorias da loja ou faça uma busca pelo seu produto. </Typography>
+          <Typography align='center' variant='h5'> SUA LISTA ESTÁ VAZIA! </Typography>
           <IconButton onClick={handleDrawerClose}>
           <Button className={classes.contBuy}
           disableRipple variant='outlined' onCLick={handleDrawerClose}>
-            Continuar comprando!
+            Continuar busca!
           </Button>
           </IconButton>
         </List>

@@ -9,7 +9,6 @@ import Skateboarding from '../../pages/categorias/skateboarding';
 import Adidas from '../../pages/marcas/adidas'
 import Nike from '../../pages/marcas/nike'
 import Under from '../../pages/marcas/under armour'
-import Desejos from '../../pages/listaDeDesejos'
 
 function Routes() {
     return(
@@ -24,7 +23,6 @@ function Routes() {
                 <Route path="/Nike" component={Nike}/>
                 <Route path="/Under Armour" component={Under}/>
                 <Route path="/Adidas" component={Adidas}/>
-                <Route path="/Lista de Desejos" component={Desejos} />
             </Switch>
         </BrowserRouter> 
     )

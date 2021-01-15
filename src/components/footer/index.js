@@ -4,8 +4,6 @@ import FacebookIcon from '@material-ui/icons/Facebook';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import styles from './style';
 
-
-
 export default function Footer() {
   const classes = styles();
 

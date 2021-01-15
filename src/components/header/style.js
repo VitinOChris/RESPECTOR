@@ -18,8 +18,11 @@ const styles = makeStyles(() => ({
       flexGrow: 100
     },
     icons: {
-      paddingRight: 20, 
-      fontSize: 15
+      fontSize: 15,
+      marginLeft: '715%'
+    },
+    merc:{
+      marginLeft: '55%'
     },
     appBar: {
       zIndex: 1210

@@ -6,7 +6,6 @@ import Footer from '../../components/footer';
 import Card from '../../components/card';
 import Grid from '@material-ui/core/Grid';
 
-
 function Home() {
 const [products, setProducts] = useState([]);
 const getData = async () => {

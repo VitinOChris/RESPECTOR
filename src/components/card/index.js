@@ -15,11 +15,7 @@ export default function ImgMediaCard({ title, price, picture }) {
   return (
     <Paper 
     elevation={0}>
-      <Card style={{
-          height: 300,
-          width: 300,
-          marginTop: 85
-      }}> 
+      <Card className={classes.style}> 
           <CardActionArea>
             <CardMedia
               className={classes.midia}
