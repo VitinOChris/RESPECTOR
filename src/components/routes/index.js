@@ -1,4 +1,4 @@
-import React  from 'react'
+import React, { Suspense }  from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from '../../pages/home'
 import Login from '../../pages/login'
@@ -15,7 +15,7 @@ function Routes() {
         <BrowserRouter>
             <Switch>
                 <Route exact path="/" component={Home} />
-                <Route path="/login" component={Login} />
+                <Route path="/login" component={ Login } />
                 <Route path="/register" component={Register} />
                 <Route path="/Futebol" component={Futebol}/>
                 <Route path="/Basquete" component={Basquete}/>

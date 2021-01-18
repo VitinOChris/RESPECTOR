@@ -19,7 +19,7 @@ const styles = makeStyles(() => ({
     },
     icons: {
       fontSize: 15,
-      marginLeft: '715%'
+      marginLeft: '825%'
     },
     merc:{
       marginLeft: '55%'
@@ -54,15 +54,17 @@ const styles = makeStyles(() => ({
       textAlign: 'center',
       padding: 20
     },
-    carrinho: {
-      paddingBottom: 50
-    },
     contBuy: {
-      marginTop: 25,
-      marginLeft: 200,
-      borderRadius: 200,
-      height: 75,
-      width: 300
+      display: 'flex',
+      borderRadius: 30,
+      height: 100,
+      width: 250,
+      marginTop: 20,
+      marginLeft: 35
+    },
+    close: {
+      marginLeft: 34,
+      marginRight: 34
     }
 }));
 

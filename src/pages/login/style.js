@@ -3,6 +3,7 @@ import { makeStyles } from '@material-ui/styles'
 const styles = makeStyles(() => ({
     root: {
         margin: 0,
+        borderRadius: 5
     },
     cont1: {
         marginTop: '5rem',
@@ -36,6 +37,9 @@ const styles = makeStyles(() => ({
         textAlign: 'center',
         marginTop: 10,
         fontSize: 17
+    },
+    fundo: {
+        backgroundColor: ''
     }
 }))
 

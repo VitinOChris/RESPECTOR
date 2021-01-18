@@ -6,13 +6,15 @@ import Typography from '@material-ui/core/Typography';
 import Link from '@material-ui/core/Link'
 import Header from '../../components/header'
 
+
 function Login() {
 
 const classes = styles();
 
 return (
-    <div>
+    <div className={classes.fundo}>
         <Header />
+        <div >
         <Container maxWidth="xs">
             <div className={classes.root}>
                 <div className={classes.cont1}>
@@ -52,6 +54,7 @@ return (
                 </div>
             </div>
         </Container>
+     </div>
     </div>
     )
 }

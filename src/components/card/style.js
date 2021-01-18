@@ -22,9 +22,12 @@ const styles = makeStyles({
       paddingLeft: 11
     },
     style: {
-      height: 300,
+      height: 350,
       width: 300,
       marginTop: 85
+    },
+    ControlLab: {
+      marginLeft: 4
     }
 });
 

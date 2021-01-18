@@ -19,7 +19,7 @@ const styles = makeStyles(() => ({
         alignItems: 'center',
         height: 100
     },
-    buttonLog: {
+    buttonReg: {
         background: "#000",
         color: "white",
         border: '1px solid #000',

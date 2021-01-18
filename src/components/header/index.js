@@ -3,7 +3,6 @@ import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Button from '@material-ui/core/Button';
 import AccountCircleIcon from '@material-ui/icons/AccountCircle';
-import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 import FavoriteIcon from '@material-ui/icons/Favorite';
 import styles from './style';
 import Link from '@material-ui/core/Link';
@@ -98,31 +97,25 @@ function Header() {
             <MenuItem onClick={handleClose}>Adidas</MenuItem>
             </Link> 
             </Menu>
-          
-            {/*<div className={classes.grow} />
-            <Link href="/Lista de desejos" underline='none' color='inherit'>
-            <Button size="small" className={classes.icons} startIcon={<FavoriteIcon />} color='inherit'> Lista de desejos
-            </Button>
-            </Link>*/}
 
           <Link href="/login" underline='none' color='inherit'>
           <Button size="small" className={classes.icons} startIcon={<AccountCircleIcon />} color='inherit'> Fazer login
           </Button>
           </Link>
           
-          <Button className={classes.merc}
+          {/*<Button className={classes.merc}
           color='inherit'>
-          <ShoppingCartIcon
+          <FavoriteIcon
             color="inherit"
             aria-label="open drawer"
             edge="end"
             onClick={handleDrawerOpen}
             className={(open && classes.hide)}
-          ></ShoppingCartIcon>
-          </Button>
+          ></FavoriteIcon>
+          </Button>*/}
         </Toolbar>
       </AppBar>
-      <Drawer
+      {/*<Drawer
         className={classes.drawer}
         variant="persistent"
         anchor="right"
@@ -136,7 +129,7 @@ function Header() {
           </IconButton>
         
         <List>
-          <Typography align='center' variant='h5'> SUA LISTA ESTÁ VAZIA! </Typography>
+          <Typography align='center' variant='h5' className={classes.close}> SUA LISTA ESTÁ VAZIA! </Typography>
           <IconButton onClick={handleDrawerClose}>
           <Button className={classes.contBuy}
           disableRipple variant='outlined' onCLick={handleDrawerClose}>
@@ -145,7 +138,7 @@ function Header() {
           </IconButton>
         </List>
         </div>
-      </Drawer>
+      </Drawer>*/}
     </div>
   );
 }
